@@ -1,0 +1,3 @@
+.vagrant
+zips
+puppet/environments/production/modules/*
